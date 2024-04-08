@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mastering Microservices with Python, Flask, and Docker
 ## Microservices Setup and Configuration
 To launch the end-to-end microservices application perform the following:
@@ -118,3 +119,7 @@ The following Python extensions were used:
 * Flask-Login: https://flask-login.readthedocs.io/en/latest/
 * Requests: https://requests.readthedocs.io/en/master/
 "# microservice-flask-ecommerce-website" 
+=======
+# 191_215_227_237_ecommerce
+ E-commerce Microservices Application on Cloud  using Docker, Kubernetes, Jenkins, and Git
+>>>>>>> 73ccfb555ab5a8923818b7ba64d4f0986ff3c198
