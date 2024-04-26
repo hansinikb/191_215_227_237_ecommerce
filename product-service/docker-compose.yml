@@ -15,7 +15,7 @@ services:
     build:
       context: .
     ports:
-    - "5002:5002"
+    - "4002:4002"
     depends_on:
       - product-db
     networks:
@@ -28,10 +28,10 @@ services:
     ports:
     - "32001:3306"
     environment:
-      MYSQL_ROOT_PASSWORD: pfm_dc_2020
+      MYSQL_ROOT_PASSWORD: lock97keyT$2024
       MYSQL_DATABASE: product
-      MYSQL_USER: cloudacademy
-      MYSQL_PASSWORD: pfm_2020
+      MYSQL_USER: user1
+      MYSQL_PASSWORD: 1234
     networks:
       - micro_network
     volumes:
